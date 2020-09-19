@@ -19,6 +19,7 @@ This has encouraged me to launch my own project to get an AI to play a game from
 I've uploaded two notebooks showcasing: 
 
 https://github.com/NickCKH/AdvancedMachineLearningSpecialization/blob/master/Practical%20Reinforcement%20Learning/Asynchronous_Advantage_Actor_Critic_A3C_nc.ipynb
+
 Asynchronous Advantage Actor Critic ("A3C")
 
 https://github.com/NickCKH/AdvancedMachineLearningSpecialization/blob/master/Practical%20Reinforcement%20Learning/Bandits_nc.ipynb
